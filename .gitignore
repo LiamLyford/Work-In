@@ -4,3 +4,5 @@ npm-debug.log
 /*.env
 Chatlantis.zip
 api/node_modules
+/.next
+api/.next
