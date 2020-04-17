@@ -9,8 +9,14 @@ const Header = () => (
     <Link href="/">
       <a style={linkStyle}>Home</a>
     </Link>
-    <Link href="/about">
-      <a style={linkStyle}>About</a>
+    <Link href="/choices">
+      <a style={linkStyle}>Choose a Workout</a>
+    </Link>
+    <Link href="/youtube">
+      <a style={linkStyle}>Pick a video</a>
+    </Link>
+    <Link href="/calendar">
+      <a style={linkStyle}>Calendar</a>
     </Link>
   </div>
 );
