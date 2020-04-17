@@ -3,3 +3,4 @@ npm-debug.log
 .DS_Store
 /*.env
 Chatlantis.zip
+api/node_modules
